@@ -21,7 +21,7 @@ $ a.out
 ## License
 BSD 2-Clause License
 
-Copyright (c) 2019, Koichi Murakami<br>
+Copyright (c) 2019, Geant4-Japan<br>
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
