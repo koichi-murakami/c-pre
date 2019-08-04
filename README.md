@@ -1,7 +1,7 @@
 # C++ Preknowledge for Geant4 Primer
 
 These codes are C++ sample programs of
-[the Q&A collection](http://geant4.kek.jp/lecture/cpppre/C++PreKnowledge.pdfj) for Geant4 primers.
+[the Q&A collection](http://geant4.kek.jp/lecture/cpppre/C++PreKnowledge.pdf) for Geant4 primers.
 
 This collection is aimed for the preknowledge of C++ programming
 language before Geant4 tutorials for novice users.
